@@ -6,9 +6,13 @@ This project is a **content-based movie recommendation system** that suggests mo
 ## 📂 Project Structure  
 📁 Movie-Recommendation-System
 │── 📄 Main_file.csv # Dataset containing movie details
+
 │── 📜 requirements.txt # Required Python libraries
+
 │── 📓 Movie_Recommendation.ipynb # Jupyter Notebook with implementation
+
 |── 📓 Movie_Recommendation.pdf  # Jupyter Notebook converted to pdf
+
 │── 📝 README.md # Project documentation
 
 ## 📊 Dataset Details  
