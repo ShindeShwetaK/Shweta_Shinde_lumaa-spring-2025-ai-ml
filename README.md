@@ -21,9 +21,8 @@ This project is a **content-based movie recommendation system** that suggests mo
 - It is used to train the recommendation system.
 - I have collected random data from these links, which provide datasets related to different movie genres.
 - You can explore the datasets by following the links to see details like movie titles, ratings, release years, etc., for each genre.
+- 
   | No. | Genre      | Link                                                                 |
-
-|-----|------------|-----------------------------------------------------------------------|
 
 | 1   | Action     | [action.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/action.csv) |
 
@@ -72,11 +71,13 @@ Ensure you have the dataset file in the correct location. For example, download 
 
 6. **Execute the Code**: Run the code cells one by one in sequence by pressing `Shift + Enter`.
    
-7. I have mentioned all the required installing in jupyter notebook for your reference also refer `requirement.txt` for necessay libaries you can run below code.
+7. I have mentioned all the required installing in jupyter notebook, for your reference please refer `requirement.txt` for necessay libaries you can run below code.
 
    `!pip install pandas scikit-learn sentence-transformers matplotlib Pillow requests`
 
-8. When you execute the list, it will give you example prompts based on the genre or data provided. You can either use the prompts generated from the list or enter your own custom prompt and press Enter to get the results.
+8. When you execute the last cell, it will give you example prompts. You can either use the prompts generated from the list or enter your own custom prompt and press Enter to get the results.
+
+9. Please refer `Movie_Recommendation.pdf` to get desired output.
 
 ---
 
