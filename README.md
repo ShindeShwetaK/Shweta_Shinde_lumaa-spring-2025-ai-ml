@@ -21,8 +21,8 @@ This project is a **content-based movie recommendation system** that suggests mo
 - It is used to train the recommendation system.
 - I have collected random data from these links, which provide datasets related to different movie genres.
 - You can explore the datasets by following the links to see details like movie titles, ratings, release years, etc., for each genre.
-- 
-  | No. | Genre      | Link                                                                 |
+  
+| No. | Genre      | Link                                                                 |
 
 | 1   | Action     | [action.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/action.csv) |
 
