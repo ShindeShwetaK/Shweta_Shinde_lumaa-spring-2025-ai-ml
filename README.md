@@ -5,6 +5,7 @@ This project is a **content-based movie recommendation system** that suggests mo
 
 ## 📂 Project Structure  
 📁 Movie-Recommendation-System
+
 │── 📄 Main_file.csv # Dataset containing movie details
 
 │── 📜 requirements.txt # Required Python libraries
@@ -21,18 +22,31 @@ This project is a **content-based movie recommendation system** that suggests mo
 - I have collected random data from these links, which provide datasets related to different movie genres.
 - You can explore the datasets by following the links to see details like movie titles, ratings, release years, etc., for each genre.
   | No. | Genre      | Link                                                                 |
+
 |-----|------------|-----------------------------------------------------------------------|
+
 | 1   | Action     | [action.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/action.csv) |
+
 | 2   | Animation  | [animation.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/animation.csv) |
+
 | 3   | Biography  | [biography.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/biography.csv) |
+
 | 4   | Comedy     | [comedy.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/comedy.csv) |
+
 | 5   | Crime      | [crime.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/crime.csv) |
+
 | 6   | Family     | [family.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/family.csv) |
+
 | 7   | Horror     | [horror.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/horror.csv) |
+
 | 8   | Romance    | [romance.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/romance.csv) |
+
 | 9   | Sci-Fi     | [sci-fi.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/sci-fi.csv) |
+
 | 10  | Adventure  | [adventure.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/adventure.csv) |
+
 | 11  | Drama      | [drama.csv](https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/drama.csv) |
+
 
 
 ## 🔧 Setup Instructions
@@ -43,23 +57,26 @@ Ensure you have the dataset file in the correct location. For example, download 
 ---
 
 ### 2 **Open and Execute the Jupyter Notebook**  
-1. Open Jupyter Notebook on your system by typing the following command in your terminal:
+1. Please install jupyternote book by following the given link.
+   `https://jupyter.org/install`
+   
+3. Open Jupyter Notebook on your system by typing the following command in your terminal:
 
     ```bash
     jupyter notebook
     ```
 
-2. Once the notebook opens in your browser, navigate to the location of the Jupyter notebook file you are working on.
+4. Once the notebook opens in your browser, navigate to the location of the Jupyter notebook file you are working on.
 
-3. Open the Jupyter notebook file.
+5. Open the Jupyter notebook file.
 
-4. **Execute the Code**: Run the code cells one by one in sequence by pressing `Shift + Enter`.
+6. **Execute the Code**: Run the code cells one by one in sequence by pressing `Shift + Enter`.
    
-5. I have mentioned all the required installing in jupyter notebook for your reference also refer `requirement.txt` for necessay libaries you can run below code.
+7. I have mentioned all the required installing in jupyter notebook for your reference also refer `requirement.txt` for necessay libaries you can run below code.
 
    `!pip install pandas scikit-learn sentence-transformers matplotlib Pillow requests`
 
-6. When you execute the list, it will give you example prompts based on the genre or data provided. You can either use the prompts generated from the list or enter your own custom prompt and press Enter to get the results.
+8. When you execute the list, it will give you example prompts based on the genre or data provided. You can either use the prompts generated from the list or enter your own custom prompt and press Enter to get the results.
 
 ---
 
