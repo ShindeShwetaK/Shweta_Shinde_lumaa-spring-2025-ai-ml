@@ -1,4 +1,5 @@
-# 🚀 Movie Recommendation System  
+# 🚀 Movie Recommendation System by Shweta Shinde
+# shweta.shinde@sjsu.edu  +16695775590
 
 ## 📌 Project Overview  
 This project is a **content-based movie recommendation system** that suggests movies based on user input. It uses **TF-IDF vectorization** and **SBERT embeddings** to compute similarity between user preferences and movie descriptions.
